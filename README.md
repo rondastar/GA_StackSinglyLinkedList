@@ -14,4 +14,4 @@ Considerations for choosing between a stack and other data structures.
 - The order the data needs to be accessed would be the key criteria. If LIFO is the order that is needed, a stack could be a gret choice. It is dynamic in size, and is efficient at what it does since there are minimal references.
 
 Thoughts on implementing a stack using different approaches (array vs. linked list).
-If the data set is a known length/count, an array could be a good option for a stack, because it is also easy to add an element from the end of an array, or to remove one. 
+- If the data set is a known length/count, an array could be a good option for a stack, because it is also easy to add an element from the end of an array, or to remove one. 
