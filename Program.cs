@@ -2,6 +2,10 @@
 
 namespace GA_StackSinglyLinkedList
 {
+// Ronda Rutherford
+// GA Stack Singly Linked List
+// 2-9-2024
+    
     internal class Program
     {
         static void Main(string[] args)
