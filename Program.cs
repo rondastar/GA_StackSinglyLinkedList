@@ -7,7 +7,7 @@ namespace GA_StackSinglyLinkedList
         static void Main(string[] args)
         {
             FloatTest();
-            //StringTest();
+            StringTest();
         }
 
         static void StringTest()
